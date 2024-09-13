@@ -1,0 +1,6 @@
+[submodule "appcrypt_user_interface"]
+	path = appcrypt_user_interface
+	url = https://github.com/eyitayoit-alt/appcrypt_user_interface.git
+[submodule "appcrypt_backend"]
+	path = appcrypt_backend
+	url = https://github.com/eyitayoit-alt/appcrypt_backend.git
